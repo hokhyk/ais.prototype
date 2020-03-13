@@ -23,8 +23,8 @@
 管理員主頁
 ![管理員主頁](./images/homeadmin.png)
 
-管理員主頁-應付帳款申請明細-Open Popup
-![管理員主頁-應付帳款申請明細-Open Popup](./images/billing_statement_listadminopen.png)
+管理員主頁-支出明細-Open Popup
+![管理員主頁-支出明細-Open Popup](./images/billing_statement_listadminopen.png)
 
-管理員主頁-應付帳款申請明細-Close Popup
-![管理員主頁-應付帳款申請明細-Close Popup](./images/billing_statement_listadminclose.png)
+管理員主頁-支出明細-Close Popup
+![管理員主頁-支出明細-Close Popup](./images/billing_statement_listadminclose.png)
