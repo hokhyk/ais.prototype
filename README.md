@@ -17,6 +17,9 @@
 新增請購單-Close Popup
 ![新增請購單](./images/add_billing_statmentclose.png)
 
+檢閱請購單
+![檢閱請購單](./images/view_billing_statment.png)
+
 管理員主頁
 ![管理員主頁](./images/homeadmin.png)
 
